@@ -83,7 +83,6 @@ p {
 
 /* TESTIMONIALS SECTION */
 .testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #EF8172;
   color: #FFF;
@@ -93,6 +92,10 @@ p {
   width: 15%;
   border-radius: 100%;
   margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
 }
 
 /* PRICING SECTION */
